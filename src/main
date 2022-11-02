@@ -70,3 +70,4 @@ me da peresa poner los comandos pero básicamente es poner mkdir en cada uno de 
 17. Copiar el archivo /etc/motd a un archivo llamado mensaje de vuestro Directorio PRUEBA. 
 
 sudo touch /etc/motd.txt
+
